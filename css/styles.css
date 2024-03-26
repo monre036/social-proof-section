@@ -23,3 +23,105 @@ body {
     margin: 0;
     font-family: sans-serif;
 }
+
+.main {
+    padding: 24px;
+}
+
+.box-main {
+    width: 327px;
+    height: 219px;
+    text-align: center;
+    margin-bottom: 39px;
+}
+
+.title {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #512051;
+    line-height: 32px;
+}
+
+.subtitle {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    color: #927B91;
+    line-height: 25px;
+    letter-spacing: -0.63px;
+}
+
+.box-rating {
+    width: 327px;
+    height: 266px;
+    margin-bottom: 49px;
+}
+
+.box {
+    width: 327px;
+    height: 78px;
+    background: #F9E8F8;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.box-stars {
+    padding-top: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.box-text {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: #512051;
+}
+
+.opinion {
+    width: 327px;
+    height: 248px;
+    padding: 32px 36px;
+    border-radius: 10px;
+    background: #512051;
+    margin-bottom: 16px;
+}
+
+.opinion-image-name {
+    width: 162px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.opinion-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.opinion-name {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 0.1px;
+    color: white;
+}
+
+.opinion-name-description {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: #EE69A4;
+}
+
+.opinion-text {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: white;
+    line-height: 22px;
+    letter-spacing: -0.3px;
+}
